@@ -20,7 +20,7 @@ function createBird(id, name, maleRating, femaleRating) {
     };
   }
   
-  // Our function which returns all over bird object
+  // Our function which returns all our bird object
   function getAllBirds(birds) {
     return birds;
   }
